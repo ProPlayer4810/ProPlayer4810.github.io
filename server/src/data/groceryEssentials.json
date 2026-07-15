@@ -1,0 +1,22 @@
+[
+  { "name": "Paneer", "category": "protein", "veg": true, "nonVeg": false, "tags": ["protein"] },
+  { "name": "Toor Dal", "category": "protein", "veg": true, "nonVeg": true, "tags": ["protein"] },
+  { "name": "Moong Dal", "category": "protein", "veg": true, "nonVeg": true, "tags": ["protein"] },
+  { "name": "Chana (Chickpeas)", "category": "protein", "veg": true, "nonVeg": true, "tags": ["protein"] },
+  { "name": "Rajma (Kidney Beans)", "category": "protein", "veg": true, "nonVeg": true, "tags": ["protein"] },
+  { "name": "Curd / Dahi", "category": "protein", "veg": true, "nonVeg": true, "tags": ["protein", "hydration"] },
+  { "name": "Eggs", "category": "protein", "veg": false, "nonVeg": true, "tags": ["protein"] },
+  { "name": "Chicken Breast", "category": "protein", "veg": false, "nonVeg": true, "tags": ["protein"] },
+  { "name": "Fish", "category": "protein", "veg": false, "nonVeg": true, "tags": ["protein"] },
+  { "name": "Soya Chunks", "category": "protein", "veg": true, "nonVeg": true, "tags": ["protein"] },
+  { "name": "Sprouted Moong", "category": "protein", "veg": true, "nonVeg": true, "tags": ["protein", "light"] },
+  { "name": "Spinach (Palak)", "category": "vegetable", "veg": true, "nonVeg": true, "tags": ["fibre", "iron"] },
+  { "name": "Mixed Seasonal Vegetables", "category": "vegetable", "veg": true, "nonVeg": true, "tags": ["fibre"] },
+  { "name": "Bananas", "category": "fruit", "veg": true, "nonVeg": true, "tags": ["energy", "potassium"] },
+  { "name": "Mixed Fruits", "category": "fruit", "veg": true, "nonVeg": true, "tags": ["fibre", "vitamins"] },
+  { "name": "Whole Wheat Atta", "category": "grain", "veg": true, "nonVeg": true, "tags": ["carb", "fibre"] },
+  { "name": "Brown Rice / Millets", "category": "grain", "veg": true, "nonVeg": true, "tags": ["carb", "fibre"] },
+  { "name": "Oats", "category": "grain", "veg": true, "nonVeg": true, "tags": ["carb", "fibre", "breakfast"] },
+  { "name": "Nuts (Almonds/Walnuts)", "category": "healthy-fat", "veg": true, "nonVeg": true, "tags": ["fat", "protein"] },
+  { "name": "Ghee", "category": "healthy-fat", "veg": true, "nonVeg": true, "tags": ["fat"] }
+]

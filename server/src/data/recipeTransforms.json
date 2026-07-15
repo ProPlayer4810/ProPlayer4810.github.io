@@ -1,0 +1,46 @@
+{
+  "maggi": {
+    "dish": "Maggi",
+    "transformedName": "Protein-Boosted Veggie Maggi",
+    "swaps": [
+      "Use half the tastemaker + a pinch of homemade spice mix to cut sodium",
+      "Stir in a boiled egg or a handful of paneer cubes for protein",
+      "Add grated carrot, peas, and spinach for fibre and volume",
+      "Use whole wheat/millet noodles if available"
+    ],
+    "macroNote": "Roughly same great taste, protein goes from ~8g to ~18g, and you add real vegetables instead of just noodles."
+  },
+  "paratha": {
+    "dish": "Paratha",
+    "transformedName": "Healthier Stuffed Paratha",
+    "swaps": [
+      "Mix multigrain atta (wheat + jowar/bajra) instead of only refined wheat",
+      "Cook with a teaspoon of ghee brushed on, not shallow-fried in oil",
+      "Load the stuffing with extra veggies or paneer for protein",
+      "Pair with curd instead of butter on top"
+    ],
+    "macroNote": "Similar comfort-food taste with meaningfully less oil and more fibre + protein per piece."
+  },
+  "butter chicken": {
+    "dish": "Butter Chicken",
+    "transformedName": "Improved Macro Butter Chicken",
+    "swaps": [
+      "Use Greek yogurt + a small amount of cream instead of heavy cream/butter-only base",
+      "Keep the classic spice blend and tomato base exactly the same",
+      "Use skinless chicken breast or thigh over fried chicken pieces",
+      "Finish with a teaspoon of butter for flavour instead of a ladle"
+    ],
+    "macroNote": "Same rich, iconic flavour with a noticeably better fat profile and slightly higher protein."
+  },
+  "biryani": {
+    "dish": "Biryani",
+    "transformedName": "Balanced Dum Biryani",
+    "swaps": [
+      "Keep the whole spices and dum-cooking method for authentic flavour",
+      "Use a leaner protein cut (chicken breast/thigh, or extra paneer for veg)",
+      "Slightly reduce the ghee/oil layer between rice and masala",
+      "Serve with raita and a side salad to add volume without extra calories"
+    ],
+    "macroNote": "Same aromatic biryani experience with a better protein-to-carb-to-fat ratio."
+  }
+}
